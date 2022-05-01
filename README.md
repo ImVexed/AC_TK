@@ -5,4 +5,4 @@ This is shellcode that uses delta offsets to function properly at any memory add
 # Usage
 To use, simply load into a bot game and hold right click
 
-[![Demo](http://i.cubeupload.com/iKZwZf.png)](https://giant.gfycat.com/EnlightenedPersonalBedlingtonterrier.gif)
+[![Demo](http://i.cubeupload.com/iKZwZf.png)](https://gfycat.com/enlightenedpersonalbedlingtonterrier)
